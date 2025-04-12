@@ -1,6 +1,6 @@
 const Discord = require('discord.js-selfbot-v13');
 
-// TOKEN YAPISTIR GARDASIM BENİM SENİN O ALLAHINI SEVERİM
+// TOKEN YAPISTIR
 const token = "";
 
 const client = new Discord.Client({
